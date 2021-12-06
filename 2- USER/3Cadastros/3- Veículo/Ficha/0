@@ -1,0 +1,12 @@
+[03-Jun-2021 15:43:35 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 33
+[03-Jun-2021 15:44:03 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 33
+[03-Jun-2021 16:10:27 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 33
+[03-Jun-2021 16:13:09 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 23
+[03-Jun-2021 16:13:09 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 30
+[03-Jun-2021 16:14:29 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 23
+[03-Jun-2021 16:14:29 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 30
+[03-Jun-2021 16:16:04 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 22
+[03-Jun-2021 16:16:31 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 22
+[03-Jun-2021 16:22:53 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 53
+[03-Jun-2021 16:23:32 UTC] PHP Parse error:  Unmatched '}' in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 60
+[03-Jun-2021 16:23:49 UTC] PHP Parse error:  Unmatched '}' in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\Ficha\processa_veiculo.php on line 60

@@ -1,0 +1,371 @@
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 14:03:16 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 15:36:55 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 15:45:56 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 15:50:09 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 15:51:46 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 15:53:25 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 15:58:19 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 29
+[03-Jun-2021 15:59:25 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 32
+[03-Jun-2021 15:59:25 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 32
+[03-Jun-2021 15:59:38 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 32
+[03-Jun-2021 16:01:11 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 33
+[03-Jun-2021 16:01:15 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 33
+[03-Jun-2021 16:01:15 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 33
+[03-Jun-2021 16:01:55 UTC] PHP Parse error:  Unmatched '}' in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 52
+[03-Jun-2021 16:02:32 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 34
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 16:02:42 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 23
+[03-Jun-2021 16:03:21 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:03:25 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:03:25 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:03:38 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:03:38 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:08 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:15 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:15 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:20 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:35 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:35 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:04:40 UTC] PHP Parse error:  syntax error, unexpected variable "$data_venda", expecting "(" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 24
+[03-Jun-2021 16:05:15 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 24
+[03-Jun-2021 16:05:18 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:06:17 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:06:49 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:07:49 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:07:49 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:08:00 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:08:00 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:08:34 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:08:34 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:08:37 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:08:37 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:08:42 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:08:42 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:09:25 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:09:25 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:09:25 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:09:25 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:09:25 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 24
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 31
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:09:26 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:10:01 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:10:01 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:10:04 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:10:04 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:10:07 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:10:07 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 24
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:18:35 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 31
+[03-Jun-2021 16:19:35 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:19:35 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:27:23 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:27:23 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:28:11 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:28:17 UTC] PHP Warning:  Undefined variable $data_compra in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 21
+[03-Jun-2021 16:28:17 UTC] PHP Warning:  Undefined variable $data_venda in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 28
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[03-Jun-2021 16:29:10 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[03-Jun-2021 16:29:19 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[03-Jun-2021 16:30:06 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[03-Jun-2021 18:42:44 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[03-Jun-2021 18:43:39 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 4
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "id_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 6
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 7
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "ano" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 8
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "tipo_combustivel" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 9
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "tipo_veiculo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 10
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "ipva" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 11
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "renavam" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 12
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "modelo" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 13
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "chassi" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 14
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "valor_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 15
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "valor_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 16
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "nf_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 17
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "nf_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 18
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "data_compra" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 19
+[04-Jun-2021 10:27:46 UTC] PHP Warning:  Undefined array key "data_venda" in C:\FROTA\JBTC-FROTA\1ADMIN\3Cadastros\3- Veículo\ViewFicha\Edita_veiculo.php on line 20

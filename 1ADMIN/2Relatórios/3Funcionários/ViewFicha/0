@@ -1,0 +1,14 @@
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "id_ficha" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 5
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "placa" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 6
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "funcionario" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 7
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "km_inicial" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 8
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "km_final" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 9
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "hora_saida" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 10
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "hora_chegada" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 11
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "destino" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 12
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "ocupacao" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 13
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "peso_carga" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 14
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "finalidade" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 15
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "estado" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 16
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "data_saida" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 18
+[03-Jun-2021 13:14:03 UTC] PHP Warning:  Undefined array key "data_chegada" in C:\FROTA\JBTC-FROTA\1ADMIN\2Relatórios\3Funcionários\ViewFicha\Edita_ficha.php on line 21

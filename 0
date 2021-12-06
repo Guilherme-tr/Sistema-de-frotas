@@ -1,0 +1,36 @@
+[01-Jun-2021 15:56:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[01-Jun-2021 16:42:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'login' in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[02-Jun-2021 21:47:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\FROTA\JBTC-FROTA\login.php on line 19
+[03-Jun-2021 01:51:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\FROTA\JBTC-FROTA\login.php on line 19
+[03-Jun-2021 16:40:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\FROTA\JBTC-FROTA\login.php on line 19
+[04-Jun-2021 11:52:58 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\Windows\TEMP) failed: No error (0) in C:\FROTA\JBTC-FROTA\index.php on line 2
+[22-Jun-2021 08:15:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 08:59:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 08:59:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 09:23:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 09:43:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:03:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:05:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:05:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:05:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:07:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:07:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:12:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:13:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:34:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 10:34:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:42:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:47:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:49:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:54:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:54:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:54:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:55:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:55:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:56:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:56:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 11:57:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 12:02:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[22-Jun-2021 12:03:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\FROTA\JBTC-FROTA\conexao.php on line 7
+[03-Aug-2021 10:48:58 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\Windows\TEMP) failed: No such file or directory (2) in C:\FROTA\JBTC-FROTA\index.php on line 2
